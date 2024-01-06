@@ -1,2 +1,4 @@
-artefacts is the folder for artefacts fivem 
-please insert your artefacts in this
+create folder artefacts and place your artefacts/fivem/build_server version in this 
+
+for start :
+    open terminal and exec this cmd ".\start.bat"
